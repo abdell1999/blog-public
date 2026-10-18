@@ -4,12 +4,19 @@
         <title>Abdellah Bukad-duh</title>
         <link>https://abdell1999.github.io/blog-public</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sun, 18 Oct 2026 14:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 15:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 Abdellah Bukad-duh</copyright>
         <atom:link href="https://abdell1999.github.io/blog-public/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABReader por dentro: el lector que no encontré, construido a mi medida]]></title>
+            <link>https://abdell1999.github.io/blog-public/posts/abreader-por-dentro</link>
+            <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/abreader-por-dentro</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Voces neuronales que se ejecutan en el navegador, sincronización entre dispositivos sin servidor y once formatos detrás de un mismo contrato. Las decisiones técnicas de ABReader y por qué las tomé.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABReader: tu biblioteca de libros electrónicos en el navegador]]></title>
             <link>https://abdell1999.github.io/blog-public/posts/abreader-tu-biblioteca-en-el-navegador</link>
