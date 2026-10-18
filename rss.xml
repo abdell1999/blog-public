@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>nombre.dev</title>
+        <title>Abdellah Bukad-duh</title>
         <link>https://abdell1999.github.io/blog-public</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sun, 18 Oct 2026 14:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 14:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
-        <copyright>2026 nombre.dev</copyright>
+        <copyright>2026 Abdellah Bukad-duh</copyright>
         <atom:link href="https://abdell1999.github.io/blog-public/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABReader: tu biblioteca de libros electrónicos en el navegador]]></title>
@@ -18,25 +18,11 @@
             <description><![CDATA[Un lector de libros electrónicos que funciona en el navegador, sin cuentas ni servidores. Qué hace, cómo se usa y cómo probarlo en un minuto.]]></description>
         </item>
         <item>
-            <title><![CDATA[Arquitectura de este blog]]></title>
+            <title><![CDATA[Cómo construí este blog: estático, sin servidor y sin coste de hosting]]></title>
             <link>https://abdell1999.github.io/blog-public/posts/arquitectura-de-este-blog</link>
             <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/arquitectura-de-este-blog</guid>
-            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo está construido este blog — Nuxt 4, Tailwind v4, Nuxt Content, sistema de temas, pipeline de contenido y deploy en GitHub Pages.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bienvenido a mi blog]]></title>
-            <link>https://abdell1999.github.io/blog-public/posts/hello-world</link>
-            <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/hello-world</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[El primer artículo del blog. Explico la motivación y el stack técnico elegido para construirlo.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Optimizando renders en Vue 3 con Suspense]]></title>
-            <link>https://abdell1999.github.io/blog-public/posts/optimizing-vue3</link>
-            <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/optimizing-vue3</guid>
-            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Una mirada al ciclo de vida de componentes async y cómo Suspense mejora la experiencia de usuario.]]></description>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Por qué elegí Nuxt y Markdown en lugar de WordPress, cómo separo el código privado del sitio publicado y qué se rompió en el primer despliegue.]]></description>
         </item>
     </channel>
 </rss>
