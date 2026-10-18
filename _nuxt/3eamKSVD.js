@@ -1,1 +1,0 @@
-import{a,o as r,b as s,r as o}from"./CL4K2TOK.js";const t={};function n(e,c){return r(),s("table",null,[o(e.$slots,"default")])}const _=Object.assign(a(t,[["render",n]]),{__name:"ProseTable"});export{_ as default};

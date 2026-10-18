@@ -4,12 +4,26 @@
         <title>Abdellah Bukad-duh</title>
         <link>https://abdell1999.github.io/blog-public</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sun, 18 Oct 2026 15:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 15:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 Abdellah Bukad-duh</copyright>
         <atom:link href="https://abdell1999.github.io/blog-public/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABR Cipher: cifrado seguro, completamente en tu navegador]]></title>
+            <link>https://abdell1999.github.io/blog-public/posts/abr-cipher-cifrado-en-tu-navegador</link>
+            <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/abr-cipher-cifrado-en-tu-navegador</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una suite de cifrado que no envía nada a ningún servidor. Cifrar textos y archivos, compartir secretos con un enlace que caduca, guardar contraseñas y destruir archivos. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ABR Cipher por dentro: criptografía sin servidor, de la URL al disco]]></title>
+            <link>https://abdell1999.github.io/blog-public/posts/abr-cipher-por-dentro</link>
+            <guid isPermaLink="false">https://abdell1999.github.io/blog-public/posts/abr-cipher-por-dentro</guid>
+            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Por qué ABR Cipher solo usa la Web Crypto API, cómo viaja un secreto en el fragmento de una URL, cómo se cifra un archivo de varios GB en el navegador y qué hace falta para destruir un archivo de verdad, con un compañero en Rust que lee NTFS.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABReader por dentro: el lector que no encontré, construido a mi medida]]></title>
             <link>https://abdell1999.github.io/blog-public/posts/abreader-por-dentro</link>

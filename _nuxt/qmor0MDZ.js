@@ -1,0 +1,1 @@
+import{a as o,o as r,b as s,r as n}from"./DQLBwMWA.js";const t={};function a(e,c){return r(),s("code",null,[n(e.$slots,"default")])}const _=Object.assign(o(t,[["render",a]]),{__name:"ProseCode"});export{_ as default};
