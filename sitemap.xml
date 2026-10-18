@@ -13,6 +13,72 @@
         <loc>https://abdell1999.github.io/blog-public/tags</loc>
     </url>
     <url>
+        <loc>https://abdell1999.github.io/blog-public/posts/abreader-tu-biblioteca-en-el-navegador</loc>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-vacia.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-filtros.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-indice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-ajustes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-sepia.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-seleccion.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-subrayados.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/citas-y-notas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/diccionario.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/vocabulario.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/vocabulario-repaso.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-voces.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/ajustes-sincronizacion.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/estadisticas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-movil.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-movil-lista.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell1999.github.io/images/posts/abreader-tu-biblioteca-en-el-navegador/lector-movil.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://abdell1999.github.io/blog-public/posts/arquitectura-de-este-blog</loc>
         <image:image>
             <image:loc>https://abdell1999.github.io/images/posts/arquitectura-de-este-blog/01-home-light.png</image:loc>
@@ -43,10 +109,16 @@
         <loc>https://abdell1999.github.io/blog-public/posts/optimizing-vue3</loc>
     </url>
     <url>
+        <loc>https://abdell1999.github.io/blog-public/tags/abreader</loc>
+    </url>
+    <url>
         <loc>https://abdell1999.github.io/blog-public/tags/content</loc>
     </url>
     <url>
         <loc>https://abdell1999.github.io/blog-public/tags/devops</loc>
+    </url>
+    <url>
+        <loc>https://abdell1999.github.io/blog-public/tags/lectura</loc>
     </url>
     <url>
         <loc>https://abdell1999.github.io/blog-public/tags/meta</loc>
@@ -58,6 +130,9 @@
         <loc>https://abdell1999.github.io/blog-public/tags/performance</loc>
     </url>
     <url>
+        <loc>https://abdell1999.github.io/blog-public/tags/proyectos</loc>
+    </url>
+    <url>
         <loc>https://abdell1999.github.io/blog-public/tags/tailwind</loc>
     </url>
     <url>
@@ -67,4 +142,4 @@
         <loc>https://abdell1999.github.io/blog-public/tags/vue</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-10-17T14:55:48.174Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-10-18T14:17:50.218Z -->
