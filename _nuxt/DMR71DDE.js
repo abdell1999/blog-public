@@ -1,1 +1,0 @@
-import{a,o as r,b as s,r as o}from"./DQLBwMWA.js";const t={};function n(e,c){return r(),s("thead",null,[o(e.$slots,"default")])}const _=Object.assign(a(t,[["render",n]]),{__name:"ProseThead"});export{_ as default};
