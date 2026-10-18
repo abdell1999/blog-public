@@ -1,0 +1,1 @@
+import{a as r,o as s,b as o,r as t}from"./CL4K2TOK.js";const n={};function a(e,c){return s(),o("td",null,[t(e.$slots,"default")])}const _=Object.assign(r(n,[["render",a]]),{__name:"ProseTd"});export{_ as default};
