@@ -1,0 +1,1 @@
+import{k as t,o,c as n,t as a}from"./BEUkA6_B.js";const c={class:"inline-block text-xs px-2.5 py-0.5 rounded-full font-medium",style:{"background-color":"var(--bg-muted)",color:"var(--fg)"}},s=t({__name:"StackBadge",props:{label:{}},setup(e){return(r,l)=>(o(),n("span",c,a(e.label),1))}}),p=Object.assign(s,{__name:"ProjectStackBadge"});export{p as _};
