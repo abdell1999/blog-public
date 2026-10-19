@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 19 Oct 2026 17:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 18:48:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI Upscaler: amplía imágenes y quita fondos con IA, sin salir de tu navegador]]></title>
+            <link>https://abdell.dev/posts/ai-upscaler-imagenes-con-ia-en-tu-navegador</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/ai-upscaler-imagenes-con-ia-en-tu-navegador</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que amplía imágenes ×2 o ×4 y elimina fondos con inteligencia artificial, todo en tu equipo. Sin subir nada a ningún servidor, sin cuentas y gratis. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI Upscaler por dentro: dos redes neuronales en una extensión de Chrome]]></title>
+            <link>https://abdell.dev/posts/ai-upscaler-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/ai-upscaler-por-dentro</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo ejecuta AI Upscaler Real-ESRGAN y U²-Net dentro del navegador con ONNX Runtime Web, por qué la imagen se procesa en mosaicos con margen, qué hubo que parchear en el modelo de quitar fondos y qué obstáculos pone una extensión Manifest V3 a los workers y al WebAssembly.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABR Cipher: cifrado seguro, completamente en tu navegador]]></title>
             <link>https://abdell.dev/posts/abr-cipher-cifrado-en-tu-navegador</link>
