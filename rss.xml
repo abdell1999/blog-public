@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Tue, 20 Oct 2026 10:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 10:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YouTube Like Shortcut: da like con una tecla, como en TikTok]]></title>
+            <link>https://abdell.dev/posts/youtube-like-shortcut-like-con-una-tecla</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/youtube-like-shortcut-like-con-una-tecla</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que da like al vídeo o Short de YouTube que estás viendo al pulsar la L. Cómo se instala, qué opciones tiene y por qué no se dispara mientras escribes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[YouTube Like Shortcut por dentro: pulsar un botón en una web que cambia sin avisar]]></title>
+            <link>https://abdell.dev/posts/youtube-like-shortcut-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/youtube-like-shortcut-por-dentro</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo una extensión de una sola función llega antes que el reproductor de YouTube, encuentra el botón de like entre variantes ocultas y layouts que cambian con el ancho de la ventana, y se asegura de que el like ha entrado aunque YouTube esté reconstruyendo la página.]]></description>
+        </item>
         <item>
             <title><![CDATA[AI Upscaler: amplía imágenes y quita fondos con IA, sin salir de tu navegador]]></title>
             <link>https://abdell.dev/posts/ai-upscaler-imagenes-con-ia-en-tu-navegador</link>
