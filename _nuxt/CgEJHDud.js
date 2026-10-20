@@ -1,1 +1,0 @@
-import{_ as r,o,c as n,r as s}from"./BVXstj5C.js";const t={};function c(e,a){return o(),n("strong",null,[s(e.$slots,"default")])}const l=Object.assign(r(t,[["render",c]]),{__name:"ProseStrong"});export{l as default};
