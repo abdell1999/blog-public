@@ -1,1 +1,0 @@
-import{_ as o,o as r,c as s,r as n}from"./DCx-1PnN.js";const t={};function c(e,a){return r(),s("ol",null,[n(e.$slots,"default")])}const _=Object.assign(o(t,[["render",c]]),{__name:"ProseOl"});export{_ as default};
