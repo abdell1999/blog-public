@@ -23,6 +23,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/youtube-like-shortcut/portada.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/portada.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/tags</loc>
@@ -184,6 +187,63 @@
         </image:image>
     </url>
     <url>
+        <loc>https://abdell.dev/posts/pokestore-tema-wordpress-para-tiendas-tcg</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/inicio.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/inicio-secciones.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/tienda-filtros.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/busqueda.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/ficha-holo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/ficha-lupa.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/ficha-estados.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/ficha-variaciones.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/vista-rapida.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/carrito-lateral.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/abrir-sobres.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/abrir-sobres-cartas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/deseos-carpeta.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/mi-cuenta.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/modo-claro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/movil-inicio.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/movil-menu.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/personalizador.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://abdell.dev/posts/youtube-like-shortcut-like-con-una-tecla</loc>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/youtube-like-shortcut/popup.webp</image:loc>
@@ -247,6 +307,21 @@
         </image:image>
     </url>
     <url>
+        <loc>https://abdell.dev/projects/pokestore</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/portada.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/tienda-filtros.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/abrir-sobres.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/pokestore-tema-wordpress-para-tiendas-tcg/movil-inicio.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://abdell.dev/projects/youtube-like-shortcut</loc>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/youtube-like-shortcut/portada.webp</image:loc>
@@ -280,6 +355,9 @@
         <loc>https://abdell.dev/tags/nuxt</loc>
     </url>
     <url>
+        <loc>https://abdell.dev/tags/pokestore</loc>
+    </url>
+    <url>
         <loc>https://abdell.dev/tags/privacidad</loc>
     </url>
     <url>
@@ -301,10 +379,16 @@
         <loc>https://abdell.dev/tags/vue</loc>
     </url>
     <url>
+        <loc>https://abdell.dev/tags/woocommerce</loc>
+    </url>
+    <url>
+        <loc>https://abdell.dev/tags/wordpress</loc>
+    </url>
+    <url>
         <loc>https://abdell.dev/tags/youtube</loc>
     </url>
     <url>
         <loc>https://abdell.dev/tags/youtube-like-shortcut</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-10-21T10:20:24.858Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-10-21T12:38:46.946Z -->

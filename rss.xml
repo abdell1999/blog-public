@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 21 Oct 2026 10:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 12:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PokeStore: un tema de WordPress a medida para tiendas de cartas coleccionables]]></title>
+            <link>https://abdell.dev/posts/pokestore-tema-wordpress-para-tiendas-tcg</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/pokestore-tema-wordpress-para-tiendas-tcg</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un tema de WordPress y WooCommerce hecho desde cero para tiendas de Pokémon y One Piece TCG. Un recorrido por la tienda como la ve quien compra, de la portada a la lista de deseos, y por lo que puede ajustar quien la lleva.]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube Like Shortcut: da like con una tecla, como en TikTok]]></title>
             <link>https://abdell.dev/posts/youtube-like-shortcut-like-con-una-tecla</link>
