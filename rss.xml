@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 21 Oct 2026 19:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 00:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TranscribeLocal por dentro: Whisper en el navegador y cómo dejó de inventarse frases]]></title>
+            <link>https://abdell.dev/posts/transcribe-local-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/transcribe-local-por-dentro</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo ejecuta TranscribeLocal Whisper, la separación de hablantes y un modelo de lenguaje dentro del navegador con Transformers.js, por qué Whisper se inventaba frases en los silencios, qué hace falta para transcribir audios largos y por qué un service worker cortaba las descargas a los cinco minutos.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TranscribeLocal: transcribe y saca subtítulos de cualquier vídeo, sin salir de tu navegador]]></title>
+            <link>https://abdell.dev/posts/transcribe-local-subtitulos-en-tu-navegador</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/transcribe-local-subtitulos-en-tu-navegador</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una app web que convierte audio y vídeo en texto y subtítulos con Whisper, distingue quién habla y hace resúmenes, todo en tu ordenador. Sin subir nada a ningún servidor, sin límites de duración y gratis. Qué hace y cómo se usa.]]></description>
+        </item>
         <item>
             <title><![CDATA[PokeStore: un tema de WordPress a medida para tiendas de cartas coleccionables]]></title>
             <link>https://abdell.dev/posts/pokestore-tema-wordpress-para-tiendas-tcg</link>
