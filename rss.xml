@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Thu, 22 Oct 2026 21:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 01:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simple TTS: escucha cualquier artículo de la web en voz alta, sin salir de tu navegador]]></title>
+            <link>https://abdell.dev/posts/simple-tts-escucha-cualquier-web</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/simple-tts-escucha-cualquier-web</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión gratuita para Chrome y Edge que lee en voz alta lo que selecciones o el artículo entero con las voces del propio navegador. Sin cuentas, sin servidores y sin APIs externas. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Simple TTS por dentro: mi primera extensión, de JavaScript a WXT con Vue]]></title>
+            <link>https://abdell.dev/posts/simple-tts-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/simple-tts-por-dentro</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo pasó Simple TTS de tres archivos de JavaScript a una extensión Manifest V3 con WXT, Vue 3 y TypeScript. Qué me hizo cambiar en cada etapa, cómo se mantiene vivo un service worker durante una lectura larga, por qué leía la frase del día anterior y cómo se consigue que el resaltado vaya a la par de la voz.]]></description>
+        </item>
         <item>
             <title><![CDATA[TranscribeLocal por dentro: Whisper en el navegador y cómo dejó de inventarse frases]]></title>
             <link>https://abdell.dev/posts/transcribe-local-por-dentro</link>
