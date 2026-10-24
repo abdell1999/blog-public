@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Fri, 23 Oct 2026 17:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 01:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABR Offline Converter: convierte imágenes, vídeo, PDF y datos sin subir nada a ningún servidor]]></title>
+            <link>https://abdell.dev/posts/offline-converter-convierte-sin-subir-nada</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/offline-converter-convierte-sin-subir-nada</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un conversor de archivos que funciona entero en tu navegador. Imágenes, vídeo a GIF, vídeo a audio, CSV a JSON, PDF, fuentes y subtítulos, y un Taller del libro que convierte tus capítulos en Markdown en un EPUB con portada e índice. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ABR Offline Converter por dentro: un conversor sin servidor, de ffmpeg.wasm a un EPUB hecho a mano]]></title>
+            <link>https://abdell.dev/posts/offline-converter-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/offline-converter-por-dentro</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo funciona un conversor de imágenes, vídeo, PDF, fuentes, subtítulos, texto y datos que no tiene backend. Workers, ffmpeg compilado a WebAssembly, codificadores BMP, ICO y TIFF escritos a mano, 811 páginas prerenderizadas y un Taller del libro que genera EPUB3 sin pandoc.]]></description>
+        </item>
         <item>
             <title><![CDATA[Simple TTS: escucha cualquier artículo de la web en voz alta, sin salir de tu navegador]]></title>
             <link>https://abdell.dev/posts/simple-tts-escucha-cualquier-web</link>
