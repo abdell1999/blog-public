@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sun, 25 Oct 2026 00:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 01:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Video Accessibility: los atajos de YouTube en cualquier vídeo de la web]]></title>
+            <link>https://abdell.dev/posts/video-accessibility-atajos-de-youtube-en-cualquier-video</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/video-accessibility-atajos-de-youtube-en-cualquier-video</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que añade los atajos de teclado de YouTube a cualquier página con un vídeo HTML. Pulsas 3 y saltas al 30 %, cambias la velocidad, haces un bucle o pulsas el botón de "me gusta" con una tecla. Solo en las webs que eliges y sin enviar ningún dato. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Video Accessibility por dentro: una capa de teclado encima de reproductores que no son tuyos]]></title>
+            <link>https://abdell.dev/posts/video-accessibility-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/video-accessibility-por-dentro</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo funciona una extensión de Chrome que añade atajos de teclado a cualquier vídeo HTML. Un permiso amplio con una inyección mínima, encontrar el vídeo correcto entre shadow DOM e iframes, no quedarse con teclas que no son suyas, pulsar botones ajenos con un selector CSS y un aviso en pantalla que pasó de 4,6 MB a 1 KB.]]></description>
+        </item>
         <item>
             <title><![CDATA[DevExtractor por dentro: lo que hay detrás de una extensión que parece simple]]></title>
             <link>https://abdell.dev/posts/devextractor-por-dentro</link>
