@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 26 Oct 2026 15:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 01:56:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reddit Archive: ver lo que se borró de Reddit y exportar la actividad de un usuario]]></title>
+            <link>https://abdell.dev/posts/reddit-archive-lo-borrado-de-reddit</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/reddit-archive-lo-borrado-de-reddit</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que recupera del archivo público de Arctic Shift los posts y comentarios borrados o editados de Reddit y los enseña en la misma página, marcados como archivados. Perfiles, posts con su árbol de comentarios, estadísticas y exportación a JSON, Markdown o CSV. Qué hace y cómo se usa.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Reddit Archive por dentro: un visor de archivo encima de una web que no es tuya]]></title>
+            <link>https://abdell.dev/posts/reddit-archive-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/reddit-archive-por-dentro</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo funciona una extensión de Chrome que muestra contenido borrado de Reddit desde la API pública de Arctic Shift. Validar respuestas que no controlas, que lo archivado nunca parezca original, caché en dos niveles, rate limit, paginar por cursor para exportar la historia entera de un usuario, Markdown de terceros en Shadow DOM y un CSV que no ejecuta fórmulas.]]></description>
+        </item>
         <item>
             <title><![CDATA[Video Accessibility: los atajos de YouTube en cualquier vídeo de la web]]></title>
             <link>https://abdell.dev/posts/video-accessibility-atajos-de-youtube-en-cualquier-video</link>
@@ -135,20 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/posts/abreader-por-dentro</guid>
             <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Voces neuronales que se ejecutan en el navegador, sincronización entre dispositivos sin servidor y once formatos detrás de un mismo contrato. Las decisiones técnicas de ABReader y por qué las tomé.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ABReader: tu biblioteca de libros electrónicos en el navegador]]></title>
-            <link>https://abdell.dev/posts/abreader-tu-biblioteca-en-el-navegador</link>
-            <guid isPermaLink="false">https://abdell.dev/posts/abreader-tu-biblioteca-en-el-navegador</guid>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un lector de libros electrónicos que funciona en el navegador, sin cuentas ni servidores. Qué hace, cómo se usa y cómo probarlo en un minuto.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cómo construí este blog: estático, sin servidor y sin coste de hosting]]></title>
-            <link>https://abdell.dev/posts/arquitectura-de-este-blog</link>
-            <guid isPermaLink="false">https://abdell.dev/posts/arquitectura-de-este-blog</guid>
-            <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Por qué elegí Nuxt y Markdown en lugar de WordPress, cómo separo el código privado del sitio publicado y qué se rompió en el primer despliegue.]]></description>
         </item>
     </channel>
 </rss>
