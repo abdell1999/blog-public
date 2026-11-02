@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sun, 01 Nov 2026 08:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 02:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YouTube Subtitles por dentro: el PoToken, el mundo MAIN y una SPA que no avisa cuando cambia de vídeo]]></title>
+            <link>https://abdell.dev/posts/youtube-subtitles-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/youtube-subtitles-por-dentro</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo funciona una extensión de Chrome que descarga en .srt los subtítulos de YouTube y por qué no la he publicado. Respuestas 200 vacías por culpa del PoToken, dejar que el reproductor pida la pista y escuchar la respuesta desde el mundo MAIN, y todo lo que se rompe cuando YouTube cambia de vídeo sin recargar la página.]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube Like Shortcut 1.5.1: tests con el HTML real de YouTube]]></title>
             <link>https://abdell.dev/posts/youtube-like-shortcut-tests-con-capturas-reales</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/posts/youtube-like-shortcut-like-con-una-tecla</guid>
             <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una extensión de Chrome que da like al vídeo o Short de YouTube que estás viendo al pulsar la L. Cómo se instala, qué opciones tiene y por qué no se dispara mientras escribes.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube Like Shortcut por dentro: pulsar un botón en una web que cambia sin avisar]]></title>
-            <link>https://abdell.dev/posts/youtube-like-shortcut-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/posts/youtube-like-shortcut-por-dentro</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo una extensión de una sola función llega antes que el reproductor de YouTube, encuentra el botón de like entre variantes ocultas y layouts que cambian con el ancho de la ventana, y se asegura de que el like ha entrado aunque YouTube esté reconstruyendo la página.]]></description>
         </item>
     </channel>
 </rss>
