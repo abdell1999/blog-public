@@ -1,0 +1,23 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="subfetch-grad" x1="16" y1="16" x2="112" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Squircle -->
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="url(#subfetch-grad)"/>
+  <!-- Subtitle Frame -->
+  <rect x="20" y="24" width="88" height="52" rx="12" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-width="3.5"/>
+  <!-- CC Letters: generous left margin for balanced spacing -->
+  <path d="M52 43C50 40 46.5 38 42 38C36.5 38 32 42.5 32 50C32 57.5 36.5 62 42 62C46.5 62 50 60 52 57" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M74 43C72 40 68.5 38 64 38C58.5 38 54 42.5 54 50C54 57.5 58.5 62 64 62C68.5 62 72 60 74 57" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- Subtitle Sync/Audio Lines -->
+  <rect x="83" y="43" width="14" height="4" rx="2" fill="#BAE6FD"/>
+  <rect x="83" y="53" width="10" height="4" rx="2" fill="#BAE6FD"/>
+  <!-- Bottom Fetch Pill & Arrow -->
+  <rect x="36" y="86" width="56" height="24" rx="12" fill="#FFFFFF"/>
+  <path d="M64 91V102M64 102L59 97M64 102L69 97" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="98" r="2" fill="#2563EB"/>
+  <circle cx="78" cy="98" r="2" fill="#2563EB"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg viewBox="20 28 160 160" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Estructura principal y solapa superior de la caja -->
+  <path d="M 55 30 L 145 30 L 155 50 L 155 140 L 45 140 L 45 50 Z" fill="#FF4500" stroke="#424242" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="45" y1="50" x2="155" y2="50" stroke="#424242" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Interior oscuro del cajón de documentos -->
+  <path d="M 53 110 L 147 110 C 149.2 110 151 111.8 151 114 L 151 140 L 49 140 L 49 114 C 49 111.8 50.8 110 53 110 Z" fill="#333333"/>
+
+  <!-- Documento en la parte trasera (gris claro) -->
+  <path d="M 63 117 L 137 117 C 138.6 117 140 118.4 140 120 L 140 140 L 60 140 L 60 120 C 60 118.4 61.4 117 63 117 Z" fill="#D8D8D8"/>
+
+  <!-- Documento en la parte delantera (blanco) -->
+  <path d="M 59 124 L 141 124 C 142.6 124 144 125.4 144 127 L 144 140 L 56 140 L 56 127 C 56 125.4 57.4 124 59 124 Z" fill="#FFFFFF"/>
+
+  <!-- Icono pequeño (cajita) impreso en el documento -->
+  <rect x="83" y="129" width="14" height="11" rx="1.5" fill="#FF4500"/>
+  <line x1="86" y1="132" x2="94" y2="132" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Icono pequeño (burbuja de chat) impreso en el documento -->
+  <path d="M 101 129 L 113 129 C 114.6 129 116 130.4 116 132 L 116 137 C 116 138.6 114.6 140 113 140 L 111 140 L 108 144 L 108 140 L 101 140 C 99.4 140 98 138.6 98 137 L 98 132 C 98 130.4 99.4 129 101 129 Z" fill="#FF4500"/>
+
+  <!-- Tapa/cajón frontal superpuesto (donde dice ARCHIVE) -->
+  <path d="M 43 140 L 73 140 L 79 150 L 121 150 L 127 140 L 157 140 L 157 178 C 157 181.3 154.3 184 151 184 L 49 184 C 45.7 184 43 181.3 43 178 Z" fill="#FF4500" stroke="#424242" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Texto "ARCHIVE" -->
+  <text x="100" y="174" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">ARCHIVE</text>
+
+  <!-- Mascota de Reddit (Snoo) -->
+  <!-- Antena -->
+  <path d="M 100 70 L 105 54 L 115 54" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="119" cy="54" r="4.5" fill="#FFFFFF"/>
+  
+  <!-- Orejas -->
+  <circle cx="73" cy="80" r="6" fill="#FFFFFF"/>
+  <circle cx="127" cy="80" r="6" fill="#FFFFFF"/>
+  
+  <!-- Cabeza -->
+  <ellipse cx="100" cy="85" rx="23" ry="16" fill="#FFFFFF"/>
+  
+  <!-- Ojos -->
+  <circle cx="92" cy="83" r="3.5" fill="#FF4500"/>
+  <circle cx="108" cy="83" r="3.5" fill="#FF4500"/>
+  
+  <!-- Sonrisa -->
+  <path d="M 92 92 Q 100 99 108 92" fill="none" stroke="#FF4500" stroke-width="2" stroke-linecap="round"/>
+</svg>

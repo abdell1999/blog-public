@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <!-- Fondo principal que replica tu bg-gradient-to-r from-indigo-600 to-violet-600 -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <!-- Degradado para la ruta secundaria -->
+    <linearGradient id="skyGrad" x1="64" y1="80" x2="96" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base con esquinas redondeadas -->
+  <rect width="128" height="128" rx="28" fill="url(#bgGrad)"/>
+  
+  <!-- Sutil borde interior para darle relieve -->
+  <rect width="126" height="126" x="1" y="1" rx="27" stroke="white" stroke-opacity="0.15" stroke-width="2"/>
+
+  <!-- Nodo de inicio -->
+  <circle cx="64" cy="100" r="8" fill="white"/>
+
+  <!-- Tallo principal -->
+  <path d="M64 100 L 64 76" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Ruta Principal (Blanco) -->
+  <path d="M64 76 C 64 56 36 60 36 36" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <path d="M24 48 L 36 28 L 48 48" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Ruta Secundaria (Cyan) -->
+  <path d="M64 76 C 64 56 92 60 92 36" stroke="url(#skyGrad)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M80 48 L 92 28 L 104 48" stroke="url(#skyGrad)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

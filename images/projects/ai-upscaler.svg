@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <!-- Gradiente vibrante para la estrella de IA -->
+    <linearGradient id="ai-star" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/> <!-- Cian brillante -->
+      <stop offset="100%" stop-color="#a855f7"/> <!-- Púrpura brillante -->
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo oscuro con bordes suaves -->
+  <rect width="128" height="128" rx="28" fill="#0f172a"/>
+
+  <!-- 1. El icono de la imagen (líneas gruesas y simples) -->
+  <!-- Marco de la imagen (incompleto en la esquina superior derecha para dejar espacio a la magia) -->
+  <path d="M 64 28 
+           L 36 28 C 31.5 28 28 31.5 28 36 
+           L 28 92 C 28 96.5 31.5 100 36 100 
+           L 92 100 C 96.5 100 100 96.5 100 92 
+           L 100 64" 
+        fill="none" stroke="#f1f5f9" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Montañas minimalistas dentro del marco -->
+  <path d="M 28 84 L 52 56 L 70 76 L 86 58 L 100 74" 
+        fill="none" stroke="#f1f5f9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Sol/Luna simple (movido a la izquierda) -->
+  <circle cx="48" cy="48" r="8" fill="#f1f5f9"/>
+
+  <!-- 2. La estrella de IA (Upscale/Mejora) rompiendo el marco -->
+  <!-- Al estar en la esquina "empujando" hacia afuera, da la sensación de aumento/expansión -->
+  <path d="M 96 8 
+           Q 96 32 120 32 
+           Q 96 32 96 56 
+           Q 96 32 72 32 
+           Q 96 32 96 8 Z" 
+        fill="url(#ai-star)"/>
+</svg>
