@@ -4,18 +4,18 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 02 Nov 2026 02:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 09:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[YouTube Subtitles por dentro: el PoToken, el mundo MAIN y una SPA que no avisa cuando cambia de vídeo]]></title>
-            <link>https://abdell.dev/posts/youtube-subtitles-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/posts/youtube-subtitles-por-dentro</guid>
+            <title><![CDATA[SubFetch for YouTube por dentro: el PoToken, el mundo MAIN y una SPA que no avisa cuando cambia de vídeo]]></title>
+            <link>https://abdell.dev/posts/subfetch-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/posts/subfetch-por-dentro</guid>
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una extensión de Chrome que descarga en .srt los subtítulos de YouTube y por qué no la he publicado. Respuestas 200 vacías por culpa del PoToken, dejar que el reproductor pida la pista y escuchar la respuesta desde el mundo MAIN, y todo lo que se rompe cuando YouTube cambia de vídeo sin recargar la página.]]></description>
+            <description><![CDATA[Cómo funciona una extensión de Chrome que descarga en .srt los subtítulos de YouTube y proyecta los tuyos sobre el reproductor. Respuestas 200 vacías por culpa del PoToken, dejar que el reproductor pida la pista y escuchar la respuesta desde el mundo MAIN, todo lo que se rompe cuando YouTube cambia de vídeo sin recargar la página y un overlay de subtítulos sincronizado fotograma a fotograma.]]></description>
         </item>
         <item>
             <title><![CDATA[YouTube Like Shortcut 1.5.1: tests con el HTML real de YouTube]]></title>
