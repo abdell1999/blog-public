@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#052e2b" />
+    </linearGradient>
+
+    <mask id="cookieMask">
+      <circle cx="240" cy="212" r="132" fill="white" />
+      <circle cx="362" cy="140" r="52" fill="black" />
+      <circle cx="334" cy="306" r="72" fill="black" />
+    </mask>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+
+  <g filter="url(#shadow)">
+    <circle cx="240" cy="212" r="132" fill="#10b981" mask="url(#cookieMask)" />
+
+    <g fill="#ffffff">
+      <circle cx="190" cy="150" r="15" />
+      <circle cx="260" cy="190" r="17" />
+      <circle cx="170" cy="240" r="12" />
+      <circle cx="230" cy="280" r="15" />
+      <circle cx="150" cy="190" r="11" />
+      <circle cx="300" cy="150" r="12" />
+    </g>
+
+    <circle cx="334" cy="306" r="56" fill="#10b981" />
+    <path d="M 310 282 L 358 330 M 358 282 L 310 330" stroke="#ffffff" stroke-width="14" stroke-linecap="round" />
+  </g>
+
+  <text x="256" y="434" font-family="system-ui, -apple-system, sans-serif" font-size="58" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">COOKIE</text>
+  <text x="256" y="474" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="10">NUKE</text>
+</svg>
