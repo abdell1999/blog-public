@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Tue, 03 Nov 2026 22:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 02:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Traducir novelas con una RTX 3080: lo que aprendí tras enfrentar cinco modelos locales al japonés y al inglés]]></title>
+            <link>https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[De una skill de Claude a cinco versiones de un traductor EPUB, 96 traducciones controladas, dos modelos especializados y un fallo que duplicaba al fantasma de Oscar Wilde.]]></description>
+        </item>
         <item>
             <title><![CDATA[SubFetch for YouTube por dentro: el PoToken, el mundo MAIN y una SPA que no avisa cuando cambia de vídeo]]></title>
             <link>https://abdell.dev/articulos/subfetch-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/pokestore-tema-wordpress-para-tiendas-tcg</guid>
             <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Un tema de WordPress y WooCommerce hecho desde cero para tiendas de Pokémon y One Piece TCG. Un recorrido por la tienda como la ve quien compra, de la portada a la lista de deseos, y por lo que puede ajustar quien la lleva.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube Like Shortcut: da like con una tecla, como en TikTok]]></title>
-            <link>https://abdell.dev/articulos/youtube-like-shortcut-like-con-una-tecla</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/youtube-like-shortcut-like-con-una-tecla</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Una extensión de Chrome que da like al vídeo o Short de YouTube que estás viendo al pulsar la L. Cómo se instala, qué opciones tiene y por qué no se dispara mientras escribes.]]></description>
         </item>
     </channel>
 </rss>
