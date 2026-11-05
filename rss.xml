@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 04 Nov 2026 02:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 03:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABR Image Tools: el editor que hice para escribir manuales sin enseñar el DNI de nadie]]></title>
+            <link>https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un editor de imágenes que funciona en el navegador, sin instalar nada y sin subir tus capturas a ningún servidor. Censura automática de DNI, IBAN, teléfonos, correos y caras, flechas y recuadros para señalar pasos, pestañas, exportación a WebP, IA local para quitar fondos y ampliar, y procesamiento por lotes. Qué hace y cómo se usa, de la primera captura al ZIP final.]]></description>
+        </item>
         <item>
             <title><![CDATA[Traducir novelas con una RTX 3080: lo que aprendí tras enfrentar cinco modelos locales al japonés y al inglés]]></title>
             <link>https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/transcribe-local-subtitulos-en-tu-navegador</guid>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una app web que convierte audio y vídeo en texto y subtítulos con Whisper, distingue quién habla y hace resúmenes, todo en tu ordenador. Sin subir nada a ningún servidor, sin límites de duración y gratis. Qué hace y cómo se usa.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PokeStore: un tema de WordPress a medida para tiendas de cartas coleccionables]]></title>
-            <link>https://abdell.dev/articulos/pokestore-tema-wordpress-para-tiendas-tcg</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/pokestore-tema-wordpress-para-tiendas-tcg</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un tema de WordPress y WooCommerce hecho desde cero para tiendas de Pokémon y One Piece TCG. Un recorrido por la tienda como la ve quien compra, de la portada a la lista de deseos, y por lo que puede ajustar quien la lleva.]]></description>
         </item>
     </channel>
 </rss>
