@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="104" fill="#212b23"/>
+  <g id="liftlog-symbol">
+    <g fill="#d2f56c" transform="rotate(-14 248 235)">
+      <rect x="131" y="220" width="234" height="30" rx="15"/>
+      <rect x="158" y="182" width="39" height="106" rx="11"/>
+      <rect x="299" y="182" width="39" height="106" rx="11"/>
+    </g>
+    <rect x="316" y="294" width="74" height="74" rx="19" fill="#d2f56c"/>
+    <path d="m333 331 13 13 26-29" fill="none" stroke="#212b23" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
