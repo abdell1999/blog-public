@@ -4,12 +4,26 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Thu, 05 Nov 2026 20:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 03:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[QR Studio: códigos QR con diseño que comprueban que escanean]]></title>
+            <link>https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un generador de QR que funciona entero en el navegador y sin conexión. Empezó como un proyecto para aprender y le fui añadiendo cosas para que no fuera el típico generador. Ahora comprueba que cada QR escanea, lo funde con una foto, lee QR sospechosos sin abrirlos, imprime a tamaño exacto y genera hojas de etiquetas desde un CSV. Cómo se usa cada parte.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QR Studio por dentro: un generador de QR que se lee a sí mismo]]></title>
+            <link>https://abdell.dev/articulos/qr-studio-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-por-dentro</guid>
+            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo está hecho un generador de QR que funciona entero en el navegador. Clean architecture con Nuxt 4, un verificador que decodifica cada QR con jsQR y lo degrada para ver si aguanta, la calibración que lo hizo fiable y un fallo en jsQR, QR artísticos con la técnica halftone, un lector anti-phishing sin red, y PDF, ZIP y cifrado sin librerías.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABR Image Tools: el editor que hice para escribir manuales sin enseñar el DNI de nadie]]></title>
             <link>https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</link>
@@ -135,20 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/simple-tts-por-dentro</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Cómo pasó Simple TTS de tres archivos de JavaScript a una extensión Manifest V3 con WXT, Vue 3 y TypeScript. Qué me hizo cambiar en cada etapa, cómo se mantiene vivo un service worker durante una lectura larga, por qué leía la frase del día anterior y cómo se consigue que el resaltado vaya a la par de la voz.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TranscribeLocal por dentro: Whisper en el navegador y cómo dejó de inventarse frases]]></title>
-            <link>https://abdell.dev/articulos/transcribe-local-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/transcribe-local-por-dentro</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo ejecuta TranscribeLocal Whisper, la separación de hablantes y un modelo de lenguaje dentro del navegador con Transformers.js, por qué Whisper se inventaba frases en los silencios, qué hace falta para transcribir audios largos y por qué un service worker cortaba las descargas a los cinco minutos.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TranscribeLocal: transcribe y saca subtítulos de cualquier vídeo, sin salir de tu navegador]]></title>
-            <link>https://abdell.dev/articulos/transcribe-local-subtitulos-en-tu-navegador</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/transcribe-local-subtitulos-en-tu-navegador</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Una app web que convierte audio y vídeo en texto y subtítulos con Whisper, distingue quién habla y hace resúmenes, todo en tu ordenador. Sin subir nada a ningún servidor, sin límites de duración y gratis. Qué hace y cómo se usa.]]></description>
         </item>
     </channel>
 </rss>
