@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Fri, 06 Nov 2026 22:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 23:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABR Image Tools por dentro: comandos, OCR en un worker y unos tests que no probaban nada]]></title>
+            <link>https://abdell.dev/articulos/abr-image-tools-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-por-dentro</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo está hecho un editor de imágenes que funciona entero en el navegador. Clean Architecture con el patrón Command, un historial de deshacer que se corrompía de cuatro formas distintas, gestos táctiles que se cancelan sin dejar rastro, Tesseract y MediaPipe para encontrar DNI y caras, un procesamiento por lotes con censura editable, seis modelos de IA en local y la suite E2E que estuvo meses sin ejecutarse por tres fallos apilados.]]></description>
+        </item>
         <item>
             <title><![CDATA[QR Studio: códigos QR con diseño que comprueban que escanean]]></title>
             <link>https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/simple-tts-escucha-cualquier-web</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una extensión gratuita para Chrome y Edge que lee en voz alta lo que selecciones o el artículo entero con las voces del propio navegador. Sin cuentas, sin servidores y sin APIs externas. Qué hace y cómo se usa.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Simple TTS por dentro: mi primera extensión, de JavaScript a WXT con Vue]]></title>
-            <link>https://abdell.dev/articulos/simple-tts-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/simple-tts-por-dentro</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo pasó Simple TTS de tres archivos de JavaScript a una extensión Manifest V3 con WXT, Vue 3 y TypeScript. Qué me hizo cambiar en cada etapa, cómo se mantiene vivo un service worker durante una lectura larga, por qué leía la frase del día anterior y cómo se consigue que el resaltado vaya a la par de la voz.]]></description>
         </item>
     </channel>
 </rss>
