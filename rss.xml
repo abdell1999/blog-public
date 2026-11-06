@@ -4,7 +4,7 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Fri, 06 Nov 2026 13:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 22:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
@@ -29,7 +29,7 @@
             <link>https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</link>
             <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</guid>
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un editor de imágenes que funciona en el navegador, sin instalar nada y sin subir tus capturas a ningún servidor. Censura automática de DNI, IBAN, teléfonos, correos y caras, flechas y recuadros para señalar pasos, pestañas, exportación a WebP, IA local para quitar fondos y ampliar, y procesamiento por lotes. Qué hace y cómo se usa, de la primera captura al ZIP final.]]></description>
+            <description><![CDATA[Un editor de imágenes que funciona en el navegador, sin instalar nada y sin subir tus capturas a ningún servidor. Censura automática de DNI, IBAN, teléfonos, correos y caras, flechas y recuadros para señalar pasos, pestañas, exportación a WebP, IA local para quitar fondos y ampliar, y procesamiento por lotes. También funciona en el móvil. Qué hace y cómo se usa, de la primera captura al ZIP final.]]></description>
         </item>
         <item>
             <title><![CDATA[Traducir novelas con una RTX 3080: lo que aprendí tras enfrentar cinco modelos locales al japonés y al inglés]]></title>
