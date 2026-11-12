@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 11 Nov 2026 02:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 03:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CookieNuke: no dejar sesiones abiertas en un ordenador que no es tuyo]]></title>
+            <link>https://abdell.dev/articulos/cookie-nuke-navegar-sin-dejar-rastro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/cookie-nuke-navegar-sin-dejar-rastro</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que borra las cookies y los datos de un sitio cuando cierras su pestaña o te vas de él. La hice para el ordenador del trabajo, donde no quería dejar sesiones iniciadas ni cookies, y la uso también en el mío para que las webs me sigan menos. Cómo se instala, cómo la uso yo y qué no hace.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABR Transfer por dentro: un servidor axum que vive lo que dura una sesión]]></title>
             <link>https://abdell.dev/articulos/abr-transfer-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/video-accessibility-por-dentro</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Cómo funciona una extensión de Chrome que añade atajos de teclado a cualquier vídeo HTML. Un permiso amplio con una inyección mínima, encontrar el vídeo correcto entre shadow DOM e iframes, no quedarse con teclas que no son suyas, pulsar botones ajenos con un selector CSS y un aviso en pantalla que pasó de 4,6 MB a 1 KB.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevExtractor por dentro: lo que hay detrás de una extensión que parece simple]]></title>
-            <link>https://abdell.dev/articulos/devextractor-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/devextractor-por-dentro</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una extensión de Chrome que extrae imágenes, SVG inline, enlaces y fuentes de cualquier web y sustituye imágenes en vivo. Manifest V3 con WXT, descargas desde un documento offscreen, reglas de red que no se salen de su sitio, un motor de reemplazo que se puede deshacer y botones de Instagram que no dependen del idioma.]]></description>
         </item>
     </channel>
 </rss>
