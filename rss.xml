@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Thu, 12 Nov 2026 03:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 03:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CookieNuke por dentro: borrar un sitio en el momento justo]]></title>
+            <link>https://abdell.dev/articulos/cookie-nuke-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/cookie-nuke-por-dentro</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo está hecha una extensión de Chrome que limpia cookies y datos al cerrar un sitio. Un service worker de Manifest V3 que se duerme y tiene que recordar qué había en cada pestaña, la regla de esperar a la última pestaña, cookies particionadas y de dominio padre, datos que se borran de una pestaña que ya no existe y un periodo de gracia que sobrevive a reiniciar el navegador. Y la revisión que hice antes de la 2.0, con lo que encontré.]]></description>
+        </item>
         <item>
             <title><![CDATA[CookieNuke: no dejar sesiones abiertas en un ordenador que no es tuyo]]></title>
             <link>https://abdell.dev/articulos/cookie-nuke-navegar-sin-dejar-rastro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/video-accessibility-atajos-de-youtube-en-cualquier-video</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una extensión de Chrome que añade los atajos de teclado de YouTube a cualquier página con un vídeo HTML. Pulsas 3 y saltas al 30 %, cambias la velocidad, haces un bucle o pulsas el botón de "me gusta" con una tecla. Solo en las webs que eliges y sin enviar ningún dato. Qué hace y cómo se usa.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Video Accessibility por dentro: una capa de teclado encima de reproductores que no son tuyos]]></title>
-            <link>https://abdell.dev/articulos/video-accessibility-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/video-accessibility-por-dentro</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una extensión de Chrome que añade atajos de teclado a cualquier vídeo HTML. Un permiso amplio con una inyección mínima, encontrar el vídeo correcto entre shadow DOM e iframes, no quedarse con teclas que no son suyas, pulsar botones ajenos con un selector CSS y un aviso en pantalla que pasó de 4,6 MB a 1 KB.]]></description>
         </item>
     </channel>
 </rss>
