@@ -1,0 +1,1 @@
+.tag-row[data-v-8d45fff7]:nth-child(2n){background-color:var(--zebra)}.tag-row[data-v-8d45fff7]:hover{background-color:color-mix(in srgb,var(--select) 8%,var(--panel))}.tag-link[data-v-8d45fff7]:after{content:"";position:absolute;inset:0}.tag-row:hover .tag-link[data-v-8d45fff7]{color:var(--select)}

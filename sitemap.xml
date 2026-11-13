@@ -956,132 +956,510 @@
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/abr-transfer/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/abreader/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/accesibilidad/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/ai-upscaler/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/android/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/arquitectura/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/subfetch.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/bluedrop/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/cipher/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/cookie-nuke/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/devextractor/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/devops/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/dualroute/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/escritorio/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/extensiones/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/ia/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/image-tools/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/image-viewer/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/japones/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/kotlin/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/lectura/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/meta/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/nuxt/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/offline-converter/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/pokestore/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/privacidad/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/productividad/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/proyectos/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/python/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/qr-studio/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/react/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/reddit-archive/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/redes/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/rust/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/seguridad/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/simple-tts/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/subfetch/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/subfetch.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/tauri/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/testing/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/traduccion/</loc>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/transcribe-local/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/typescript/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/subfetch.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/video-accessibility/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/vue/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/subfetch.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/woocommerce/</loc>
@@ -1091,9 +1469,15 @@
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/youtube-like-shortcut/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/youtube/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/abr-liftlog/</loc>
@@ -1127,6 +1511,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abr-transfer/navegador.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abr-transfer.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/abreader/</loc>
@@ -1141,6 +1528,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca-movil.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/abreader.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1175,6 +1565,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/ai-upscaler/oscuro.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ai-upscaler.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/bluedrop/</loc>
@@ -1189,6 +1582,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/bluedrop/widget.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1205,6 +1601,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abr-cipher/destruir.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cipher.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/cookie-nuke/</loc>
@@ -1219,6 +1618,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/cookie-nuke/ajustes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/cookie-nuke.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1235,6 +1637,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/devextractor/enlaces.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/devextractor.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/dualroute/</loc>
@@ -1249,6 +1654,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/dualroute/historial.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1274,6 +1682,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/image-tools/oscuro.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-tools.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/image-viewer/</loc>
@@ -1291,6 +1702,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/image-viewer/claro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/image-viewer.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1325,6 +1739,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/offline-converter/listado.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/offline-converter.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/pokestore/</loc>
@@ -1355,6 +1772,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/qr-studio/etiquetas.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/reddit-archive/</loc>
@@ -1369,6 +1789,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/reddit-archive/exportar.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/reddit-archive.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1388,11 +1811,17 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/simple-tts/oscuro.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/simple-tts.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/subfetch/</loc>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/subfetch/boton-subtitulos.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/subfetch.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1412,6 +1841,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/transcribe-local/oscuro.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/transcribe-local.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/video-accessibility/</loc>
@@ -1427,12 +1859,18 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/video-accessibility/cine.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/video-accessibility.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/youtube-like-shortcut/</loc>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/youtube-like-shortcut/portada.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
+        </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-13T11:13:26.315Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-13T11:59:55.375Z -->
