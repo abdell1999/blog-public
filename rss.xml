@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 16 Nov 2026 14:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 23:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABR Liftlog por dentro: una PWA de entrenamiento sin servidor]]></title>
+            <link>https://abdell.dev/articulos/abr-liftlog-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/abr-liftlog-por-dentro</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo está hecha una aplicación para registrar entrenamientos que funciona sin conexión y guarda todo en el móvil. Una especificación con ocho principios como punto de partida, IndexedDB con Dexie como fuente de verdad, rutinas versionadas que nunca reescriben el historial, comparaciones por máquina, un calendario que no cuenta como falta lo que no tocaba, paquetes de rutina con imágenes, copias verificadas con SHA-256 y Google Drive sin backend.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABR Liftlog: apuntar cada serie del gimnasio desde el móvil]]></title>
             <link>https://abdell.dev/articulos/abr-liftlog-registro-de-entrenamientos</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/bluedrop-donde-aparque-el-coche</guid>
             <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una app de Android que guarda la ubicación del coche en cuanto el móvil se desconecta de su Bluetooth, sin pulsar nada. Cómo se configura, qué pasa al aparcar y al volver, cómo corregir el sitio si no había GPS, y el historial, las estadísticas y el widget.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BlueDrop por dentro: guardar la ubicación en los milisegundos que da un BroadcastReceiver]]></title>
-            <link>https://abdell.dev/articulos/bluedrop-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/bluedrop-por-dentro</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una app de Android que guarda dónde aparcas cuando el móvil se desconecta del Bluetooth del coche. Un receptor que tiene que terminar enseguida, un foreground service para el trabajo lento, desconexiones duplicadas, un aparcamiento sin GPS que acababa en el océano, el cambio de Google Maps a OpenStreetMap y Clean Architecture en 10 módulos Gradle.]]></description>
         </item>
     </channel>
 </rss>
