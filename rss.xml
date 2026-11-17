@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 16 Nov 2026 23:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 23:29:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OCR Web: sacar el texto de una imagen sin subirla a ningún sitio]]></title>
+            <link>https://abdell.dev/articulos/ocr-web-texto-de-imagenes-sin-subirlas</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/ocr-web-texto-de-imagenes-sin-subirlas</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una herramienta de OCR que funciona entera en el navegador, también con japonés y chino. La empecé para investigar el OCR sin servidor, porque leo cómics y mangas en otros idiomas y para traducirlos primero hay que sacar el texto de la imagen. También sirve para facturas y documentos que quieres poder buscar. Cómo se elige el motor, cómo se comprueba el resultado y cómo se convierte un PDF escaneado en un PDF buscable.]]></description>
+        </item>
         <item>
             <title><![CDATA[ABR Liftlog por dentro: una PWA de entrenamiento sin servidor]]></title>
             <link>https://abdell.dev/articulos/abr-liftlog-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/dualroute-tus-paginas-de-cada-dia</guid>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Una extensión de Chrome para abrir de golpe las páginas que revisas a diario, cada una en modo normal, incógnito o los dos. Cómo se crean las rutas (también desde el menú del botón derecho o desde una carpeta de marcadores), cómo se abren en bloque o por grupos, el atajo de teclado y la palabra clave dr, los recordatorios por horas, las notas con historial, el registro de aperturas y la exportación a JSON.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BlueDrop: saber dónde aparcaste sin acordarte de apuntarlo]]></title>
-            <link>https://abdell.dev/articulos/bluedrop-donde-aparque-el-coche</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/bluedrop-donde-aparque-el-coche</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Una app de Android que guarda la ubicación del coche en cuanto el móvil se desconecta de su Bluetooth, sin pulsar nada. Cómo se configura, qué pasa al aparcar y al volver, cómo corregir el sitio si no había GPS, y el historial, las estadísticas y el widget.]]></description>
         </item>
     </channel>
 </rss>
