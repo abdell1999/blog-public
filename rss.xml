@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 18 Nov 2026 19:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 23:55:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OCR Web por dentro: elegir un motor con números y diseñar con reglas]]></title>
+            <link>https://abdell.dev/articulos/ocr-web-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/ocr-web-por-dentro</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo pasó un OCR web de dos motores sin medir a uno fiable que funciona entero en el navegador, y de parecer una plantilla a parecer una herramienta. Un benchmark con imágenes reales de dominio público, PP-OCRv6 con ONNX Runtime en un worker y sin cabeceras especiales, umbrales calibrados, columnas, fotos torcidas, PDF buscable con una fuente de 572 bytes, una fase de escritura a mano que terminó sin añadir nada y un rediseño con reglas que comprueban los tests.]]></description>
+        </item>
         <item>
             <title><![CDATA[OCR Web: sacar el texto de una imagen sin subirla a ningún sitio]]></title>
             <link>https://abdell.dev/articulos/ocr-web-texto-de-imagenes-sin-subirlas</link>
@@ -36,14 +43,14 @@
             <link>https://abdell.dev/articulos/abrjson-por-dentro</link>
             <guid isPermaLink="false">https://abdell.dev/articulos/abrjson-por-dentro</guid>
             <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo está hecho un editor de JSON que funciona entero en el navegador y aguanta archivos de 10 MB. Un monorepo con el dominio separado de Nuxt, el texto como única fuente de verdad, ediciones desde el grafo que solo cambian el fragmento editado, un grafo SVG que solo dibuja lo que se ve, búsqueda y validación de esquemas en workers, y un arnés de rendimiento que corta el despliegue. Y los siete fallos que encontré al revisarlo.]]></description>
+            <description><![CDATA[Las decisiones detrás de un editor de JSON que funciona entero en el navegador y aguanta archivos de 10 MB, con las alternativas que descarté y lo que costó cada una. CodeMirror en vez de Monaco, un grafo SVG propio en vez de Cytoscape, el texto como única fuente de verdad, ediciones que solo cambian el fragmento editado, un índice espacial para dibujar solo lo visible, Web Locks para dos ventanas y un arnés de rendimiento que corta el despliegue.]]></description>
         </item>
         <item>
             <title><![CDATA[ABRjson: trabajar con JSON de más de 1 MB sin perderte]]></title>
             <link>https://abdell.dev/articulos/abrjson-json-grandes-sin-perderte</link>
             <guid isPermaLink="false">https://abdell.dev/articulos/abrjson-json-grandes-sin-perderte</guid>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un editor de JSON que funciona entero en el navegador, con el texto y un grafo del mismo documento lado a lado. Lo hice para los JSON enormes de mis webs, con todo el contenido y todas las traducciones. En VS Code costaba recorrerlos y las herramientas gratuitas no los abrían. Cómo se abre un archivo, cómo busco una clave en todos los idiomas, cómo cambio un valor y lo guardo, y cómo valido con un esquema.]]></description>
+            <description><![CDATA[Manual de ABRjson, un editor de JSON que funciona entero en el navegador, con el texto y un grafo del mismo documento lado a lado. Cómo abrir un archivo grande, moverte por el grafo, buscar una clave en todos los idiomas, cambiar un valor sin tocar nada más, validar con JSON Schema, guardar en el mismo archivo y trabajar sin dejar rastro en el navegador.]]></description>
         </item>
         <item>
             <title><![CDATA[CookieNuke por dentro: borrar un sitio en el momento justo]]></title>
@@ -99,14 +106,14 @@
             <link>https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</link>
             <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un generador de QR que funciona entero en el navegador y sin conexión. Empezó como un proyecto para aprender y le fui añadiendo cosas para que no fuera el típico generador. Ahora comprueba que cada QR escanea, lo funde con una foto, lee QR sospechosos sin abrirlos, imprime a tamaño exacto y genera hojas de etiquetas desde un CSV. Cómo se usa cada parte.]]></description>
+            <description><![CDATA[Manual de QR Studio, un generador de QR que funciona entero en el navegador y sin conexión, y que se instala como aplicación en el móvil o el ordenador. Cómo crear y diseñar un QR, cómo leer el veredicto de escaneo, cómo fundirlo con una foto, imprimirlo a tamaño exacto, generar hojas de etiquetas desde un CSV y leer QR sospechosos sin abrirlos.]]></description>
         </item>
         <item>
             <title><![CDATA[QR Studio por dentro: un generador de QR que se lee a sí mismo]]></title>
             <link>https://abdell.dev/articulos/qr-studio-por-dentro</link>
             <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-por-dentro</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo está hecho un generador de QR que funciona entero en el navegador. Clean architecture con Nuxt 4, un verificador que decodifica cada QR con jsQR y lo degrada para ver si aguanta, la calibración que lo hizo fiable y un fallo en jsQR, QR artísticos con la técnica halftone, un lector anti-phishing sin red, y PDF, ZIP y cifrado sin librerías.]]></description>
+            <description><![CDATA[Las decisiones detrás de un generador de QR que funciona entero en el navegador, con las alternativas que descarté. Una arquitectura por capas con Nuxt 4, un verificador que decodifica cada QR con jsQR y lo degrada para ver si aguanta, la calibración que lo hizo fiable y un fallo en jsQR, QR artísticos con la técnica halftone, un lector anti-phishing sin red, PDF y ZIP escritos a mano, un sistema de diseño con el contraste comprobado en los tests y una PWA instalable también en el iPhone.]]></description>
         </item>
         <item>
             <title><![CDATA[ABR Image Tools: el editor que hice para escribir manuales sin enseñar el DNI de nadie]]></title>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/dualroute-por-dentro</guid>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Cómo funciona una extensión de Chrome que abre grupos de páginas en modo normal, incógnito o ambos y lleva la cuenta de cuándo se abrió cada una. Un planificador puro, lanzamientos que viven en el service worker, el fallback cuando no hay permiso de incógnito, recordatorios con chrome.alarms, escrituras serializadas con Web Locks, trece idiomas con plurales de verdad, grupos de pestañas, la palabra clave dr y un cajón que se movía con la lista por culpa de una animación.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DualRoute: abrir las páginas de cada día con un clic y saber cuándo las miraste por última vez]]></title>
-            <link>https://abdell.dev/articulos/dualroute-tus-paginas-de-cada-dia</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/dualroute-tus-paginas-de-cada-dia</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Una extensión de Chrome para abrir de golpe las páginas que revisas a diario, cada una en modo normal, incógnito o los dos. Cómo se crean las rutas (también desde el menú del botón derecho o desde una carpeta de marcadores), cómo se abren en bloque o por grupos, el atajo de teclado y la palabra clave dr, los recordatorios por horas, las notas con historial, el registro de aperturas y la exportación a JSON.]]></description>
         </item>
     </channel>
 </rss>

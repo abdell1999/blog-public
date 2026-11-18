@@ -523,7 +523,13 @@
             <image:loc>https://abdell.dev/images/posts/abrjson/busqueda.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/interfaz.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/posts/abrjson/bienvenida.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/error.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abrjson/grafo.webp</image:loc>
@@ -533,6 +539,15 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abrjson/esquema.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/persistencia.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/paleta.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/oscuro.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -737,6 +752,10 @@
         </image:image>
     </url>
     <url>
+        <loc>https://abdell.dev/articulos/ocr-web-por-dentro/</loc>
+        <lastmod>2026-11-19</lastmod>
+    </url>
+    <url>
         <loc>https://abdell.dev/articulos/ocr-web-texto-de-imagenes-sin-subirlas/</loc>
         <lastmod>2026-11-18</lastmod>
         <image:image>
@@ -894,6 +913,12 @@
             <image:loc>https://abdell.dev/images/posts/qr-studio/diseno-escritorio.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/instalar-movil.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/posts/qr-studio/fragil.webp</image:loc>
         </image:image>
         <image:image>
@@ -901,6 +926,9 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/qr-studio/arte-escritorio.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/imprimir.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/qr-studio/tarjeta-wifi.webp</image:loc>
@@ -1175,6 +1203,9 @@
     <url>
         <loc>https://abdell.dev/etiquetas/arquitectura/</loc>
         <image:image>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
         </image:image>
         <image:image>
@@ -1327,6 +1358,9 @@
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/nuxt/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abrjson.svg</image:loc>
         </image:image>
@@ -1625,6 +1659,9 @@
     <url>
         <loc>https://abdell.dev/etiquetas/typescript/</loc>
         <image:image>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
         </image:image>
         <image:image>
@@ -1684,6 +1721,9 @@
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/vue/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abrjson.svg</image:loc>
         </image:image>
@@ -1802,13 +1842,16 @@
             <image:loc>https://abdell.dev/images/posts/abrjson/busqueda.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://abdell.dev/images/posts/abrjson/interfaz.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/posts/abrjson/inspector.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abrjson/esquema.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/abrjson/grafo.webp</image:loc>
+            <image:loc>https://abdell.dev/images/posts/abrjson/oscuro.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abrjson.svg</image:loc>
@@ -2060,7 +2103,13 @@
             <image:loc>https://abdell.dev/images/posts/qr-studio/lector-escritorio.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/qr-studio/etiquetas.webp</image:loc>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/lotes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/instalar-movil.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/qr-studio/oscuro.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
@@ -2169,4 +2218,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-18T19:48:10.721Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-18T23:55:12.093Z -->
