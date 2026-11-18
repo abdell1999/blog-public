@@ -39,7 +39,7 @@
             <image:loc>https://abdell.dev/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
@@ -51,7 +51,7 @@
     <url>
         <loc>https://abdell.dev/articulos/</loc>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
@@ -156,7 +156,7 @@
             <image:loc>https://abdell.dev/images/projects/qr-studio.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca.webp</image:loc>
@@ -734,10 +734,16 @@
             <image:loc>https://abdell.dev/images/posts/ocr-web/confirmacion.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/vacio.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/posts/ocr-web/recorte.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/ocr-web/factura-movil.webp</image:loc>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/dudosas-detalle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/dudosas.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/ocr-web/factura-enderezada.webp</image:loc>
@@ -746,13 +752,22 @@
             <image:loc>https://abdell.dev/images/posts/ocr-web/cartel-japones.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/ocr-web/cartel-movil.webp</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://abdell.dev/images/posts/ocr-web/vineta-manga.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/ocr-web/documento.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/cartel-movil.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/factura-oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/historial.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/escritura-a-mano.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1328,7 +1343,7 @@
     <url>
         <loc>https://abdell.dev/etiquetas/ocr-web/</loc>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -1343,7 +1358,7 @@
     <url>
         <loc>https://abdell.dev/etiquetas/privacidad/</loc>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
@@ -1400,7 +1415,7 @@
     <url>
         <loc>https://abdell.dev/etiquetas/productividad/</loc>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
@@ -1448,7 +1463,7 @@
     <url>
         <loc>https://abdell.dev/etiquetas/proyectos/</loc>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
@@ -1940,16 +1955,19 @@
             <image:loc>https://abdell.dev/images/posts/ocr-web/factura.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/ocr-web/cartel-movil.webp</image:loc>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/dudosas.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/ocr-web/documento.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/posts/ocr-web/confirmacion.webp</image:loc>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/cartel-movil.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://abdell.dev/images/projects/ocr-web.png</image:loc>
+            <image:loc>https://abdell.dev/images/posts/ocr-web/factura-oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -2109,4 +2127,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-18T15:37:24.683Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-18T16:11:56.562Z -->

@@ -1,1 +1,0 @@
-import{u as t,q as e}from"./O6M3k_tI.js";function r(){return t("posts",()=>e("posts").select("title","description","date","path","tags","type").where("draft","!=",!0).order("date","DESC").all())}export{r as u};
