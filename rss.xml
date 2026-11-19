@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Thu, 19 Nov 2026 17:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 23:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awesome Editor: el manual de un editor de texto para cualquier web]]></title>
+            <link>https://abdell.dev/articulos/awesome-editor-un-editor-de-texto-para-cualquier-web</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/awesome-editor-un-editor-de-texto-para-cualquier-web</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[El manual de Awesome Editor, el editor de texto enriquecido que hice como alternativa propia a CKEditor y TinyMCE. Todo lo que puede hacer quien escribe con él, función por función, desde dar formato y montar tablas hasta abrir un Word, exportar a PDF o escribir sin soltar el teclado. Todo se puede probar en la demo.]]></description>
+        </item>
         <item>
             <title><![CDATA[OCR Web por dentro: elegir un motor con números y diseñar con reglas]]></title>
             <link>https://abdell.dev/articulos/ocr-web-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/youtube-like-shortcut-tests-con-capturas-reales</guid>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[La versión 1.5.1 cumple lo que dejé pendiente. Tests que cargan capturas reales de YouTube, el botón de los Shorts encontrado por su componente y no por su texto, y seis fallos que salieron al mirar con lupa. También lo que las capturas revelaron sobre cómo funcionaba la extensión hasta ahora.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DualRoute por dentro: abrir pestañas desde el service worker y que tres contextos no se pisen al guardar]]></title>
-            <link>https://abdell.dev/articulos/dualroute-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/dualroute-por-dentro</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una extensión de Chrome que abre grupos de páginas en modo normal, incógnito o ambos y lleva la cuenta de cuándo se abrió cada una. Un planificador puro, lanzamientos que viven en el service worker, el fallback cuando no hay permiso de incógnito, recordatorios con chrome.alarms, escrituras serializadas con Web Locks, trece idiomas con plurales de verdad, grupos de pestañas, la palabra clave dr y un cajón que se movía con la lista por culpa de una animación.]]></description>
         </item>
     </channel>
 </rss>

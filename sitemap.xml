@@ -42,17 +42,20 @@
             <image:loc>https://abdell.dev/images/posts/abreader-tu-biblioteca-en-el-navegador/biblioteca.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/abr-liftlog.svg</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://abdell.dev/images/projects/abrjson.svg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/articulos/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
@@ -82,9 +85,6 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/youtube-like-shortcut.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://abdell.dev/images/projects/dualroute.svg</image:loc>
         </image:image>
     </url>
     <url>
@@ -627,6 +627,52 @@
         </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/posts/arquitectura-de-este-blog/09-pagina-404.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://abdell.dev/articulos/awesome-editor-un-editor-de-texto-para-cualquier-web/</loc>
+        <lastmod>2026-11-20</lastmod>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/portada.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/seleccion.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/menu-barra.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/emoji.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/dialogo-enlace.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/imagen-seleccionada.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/tabla-cuadricula.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/tabla-menu.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/tabla-rectangulo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/buscar.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/menu-archivo.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/markdown.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/oscuro.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/posts/awesome-editor/movil.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1267,6 +1313,12 @@
         </image:image>
     </url>
     <url>
+        <loc>https://abdell.dev/etiquetas/awesome-editor/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://abdell.dev/etiquetas/bluedrop/</loc>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/bluedrop.svg</image:loc>
@@ -1464,6 +1516,9 @@
     <url>
         <loc>https://abdell.dev/etiquetas/productividad/</loc>
         <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
         <image:image>
@@ -1511,6 +1566,9 @@
     </url>
     <url>
         <loc>https://abdell.dev/etiquetas/proyectos/</loc>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://abdell.dev/images/projects/ocr-web.svg</image:loc>
         </image:image>
@@ -1892,6 +1950,9 @@
         <image:image>
             <image:loc>https://abdell.dev/images/posts/awesome-editor/oscuro.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://abdell.dev/images/projects/awesome-editor.svg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://abdell.dev/proyectos/bluedrop/</loc>
@@ -2218,4 +2279,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-19T17:40:41.133Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.15 at 2026-11-19T23:04:38.334Z -->
