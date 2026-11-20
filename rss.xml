@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Fri, 20 Nov 2026 01:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 23:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awesome Editor por dentro: un editor de texto que no se fía del navegador]]></title>
+            <link>https://abdell.dev/articulos/awesome-editor-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/awesome-editor-por-dentro</guid>
+            <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo construí un editor de texto enriquecido propio, alternativa a CKEditor y TinyMCE. Por qué el documento es un JSON validado y no el HTML de un contentEditable, cómo un solo núcleo sin framework sirve a Vue, React y Angular, una única política de seguridad, el pegado y las tablas, que es donde está lo difícil, y cómo compruebo que todo funciona fuera de mi máquina.]]></description>
+        </item>
         <item>
             <title><![CDATA[Awesome Editor: el manual de un editor de texto para cualquier web]]></title>
             <link>https://abdell.dev/articulos/awesome-editor-un-editor-de-texto-para-cualquier-web</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/subfetch-por-dentro</guid>
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Cómo funciona una extensión de Chrome que descarga en .srt los subtítulos de YouTube y proyecta los tuyos sobre el reproductor. El PoToken y las respuestas 200 vacías, escuchar al reproductor desde el mundo MAIN, una SPA que cambia de vídeo sin avisar, reconstruir frases a partir del tiempo de cada palabra para que una IA las traduzca bien, un overlay que vuelve a una sola línea y lo que hizo falta para llevarla a la Chrome Web Store.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube Like Shortcut 1.5.1: tests con el HTML real de YouTube]]></title>
-            <link>https://abdell.dev/articulos/youtube-like-shortcut-tests-con-capturas-reales</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/youtube-like-shortcut-tests-con-capturas-reales</guid>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[La versión 1.5.1 cumple lo que dejé pendiente. Tests que cargan capturas reales de YouTube, el botón de los Shorts encontrado por su componente y no por su texto, y seis fallos que salieron al mirar con lupa. También lo que las capturas revelaron sobre cómo funcionaba la extensión hasta ahora.]]></description>
         </item>
     </channel>
 </rss>
