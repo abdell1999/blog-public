@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sat, 21 Nov 2026 16:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 23:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MenuCreator: la carta de tu bar, al día y en el móvil]]></title>
+            <link>https://abdell.dev/articulos/menucreator-la-carta-de-tu-bar-al-dia</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/menucreator-la-carta-de-tu-bar-al-dia</guid>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[El manual de MenuCreator, una carta digital para bares y restaurantes. Recorre un día normal de un hostelero, desde montar la carta hasta marcar un plato como agotado en mitad del servicio, darle el aspecto del local y poner el QR en las mesas. Todo lo que cuento se puede repetir en el editor de prueba, sin cuenta.]]></description>
+        </item>
         <item>
             <title><![CDATA[Awesome Editor por dentro: un editor de texto que no se fía del navegador]]></title>
             <link>https://abdell.dev/articulos/awesome-editor-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</guid>
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[De una skill de Claude a cinco versiones de un traductor EPUB, 96 traducciones controladas, dos modelos especializados y un fallo que duplicaba al fantasma de Oscar Wilde.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SubFetch for YouTube por dentro: sacar los subtítulos, hacer que se lean bien y publicarla]]></title>
-            <link>https://abdell.dev/articulos/subfetch-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/subfetch-por-dentro</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cómo funciona una extensión de Chrome que descarga en .srt los subtítulos de YouTube y proyecta los tuyos sobre el reproductor. El PoToken y las respuestas 200 vacías, escuchar al reproductor desde el mundo MAIN, una SPA que cambia de vídeo sin avisar, reconstruir frases a partir del tiempo de cada palabra para que una IA las traduzca bien, un overlay que vuelve a una sola línea y lo que hizo falta para llevarla a la Chrome Web Store.]]></description>
         </item>
     </channel>
 </rss>
