@@ -1,0 +1,8 @@
+mgba.js and mgba.wasm come from @thenick775/mgba-wasm 2.6.0,
+a build of mGBA (https://mgba.io) compiled to WebAssembly by thenick775
+(https://github.com/thenick775/mgba/tree/feature/wasm).
+
+They are distributed unmodified under the Mozilla Public License, version 2.0:
+https://www.mozilla.org/en-US/MPL/2.0/
+
+The source code is available at the repository above.
