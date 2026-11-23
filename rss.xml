@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 23 Nov 2026 11:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 23:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Un LLM de 300 MB en mi blog: lo medí, falló el 59 % de las veces y publiqué otra cosa]]></title>
+            <link>https://abdell.dev/articulos/un-llm-de-300-mb-en-mi-blog</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/un-llm-de-300-mb-en-mi-blog</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Probé Qwen2.5-0.5B en el navegador para responder preguntas sobre el blog: 303 MB, 15 aciertos de 37 y respuestas inventadas con el fragmento correcto delante. Las cifras, los fallos reales y lo que publiqué en su lugar, con una demo para probarlo.]]></description>
+        </item>
         <item>
             <title><![CDATA[MenuCreator por dentro: una carta digital con servidor, desplegada gratis]]></title>
             <link>https://abdell.dev/articulos/menucreator-por-dentro</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-por-dentro</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Las decisiones detrás de un generador de QR que funciona entero en el navegador, con las alternativas que descarté. Una arquitectura por capas con Nuxt 4, un verificador que decodifica cada QR con jsQR y lo degrada para ver si aguanta, la calibración que lo hizo fiable y un fallo en jsQR, QR artísticos con la técnica halftone, un lector anti-phishing sin red, PDF y ZIP escritos a mano, un sistema de diseño con el contraste comprobado en los tests y una PWA instalable también en el iPhone.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ABR Image Tools: el editor que hice para escribir manuales sin enseñar el DNI de nadie]]></title>
-            <link>https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</guid>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un editor de imágenes que funciona en el navegador, sin instalar nada y sin subir tus capturas a ningún servidor. Censura automática de DNI, IBAN, teléfonos, correos y caras, flechas y recuadros para señalar pasos, pestañas, exportación a WebP, IA local para quitar fondos y ampliar, y procesamiento por lotes. También funciona en el móvil. Qué hace y cómo se usa, de la primera captura al ZIP final.]]></description>
         </item>
     </channel>
 </rss>
