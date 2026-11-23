@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Sat, 21 Nov 2026 23:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 11:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MenuCreator por dentro: una carta digital con servidor, desplegada gratis]]></title>
+            <link>https://abdell.dev/articulos/menucreator-por-dentro</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/menucreator-por-dentro</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo está hecho MenuCreator, una carta digital para restaurantes en Nuxt con su propio servidor. Un editor de prueba que reutiliza el panel real sin tocar la base de datos, un registro que la interfaz cerraba y el servidor no, las fotos dentro de la base de datos, lo que Vercel y TiDB no avisan, colores de marca que se ajustan solos al contraste y un guardado automático pensado para el servicio.]]></description>
+        </item>
         <item>
             <title><![CDATA[MenuCreator: la carta de tu bar, al día y en el móvil]]></title>
             <link>https://abdell.dev/articulos/menucreator-la-carta-de-tu-bar-al-dia</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-editor-de-imagenes-para-manuales</guid>
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Un editor de imágenes que funciona en el navegador, sin instalar nada y sin subir tus capturas a ningún servidor. Censura automática de DNI, IBAN, teléfonos, correos y caras, flechas y recuadros para señalar pasos, pestañas, exportación a WebP, IA local para quitar fondos y ampliar, y procesamiento por lotes. También funciona en el móvil. Qué hace y cómo se usa, de la primera captura al ZIP final.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Traducir novelas con una RTX 3080: lo que aprendí tras enfrentar cinco modelos locales al japonés y al inglés]]></title>
-            <link>https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/traducir-novelas-con-una-rtx-3080</guid>
-            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[De una skill de Claude a cinco versiones de un traductor EPUB, 96 traducciones controladas, dos modelos especializados y un fallo que duplicaba al fantasma de Oscar Wilde.]]></description>
         </item>
     </channel>
 </rss>
