@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Mon, 23 Nov 2026 23:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 13:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SubFetch for YouTube: descarga los subtítulos de un vídeo en frases completas y pon los tuyos encima]]></title>
+            <link>https://abdell.dev/articulos/subfetch-descarga-y-carga-subtitulos-de-youtube</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/subfetch-descarga-y-carga-subtitulos-de-youtube</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una extensión de Chrome que descarga en .srt los subtítulos de cualquier vídeo de YouTube, nativos, automáticos o traducidos, con los automáticos rehechos en frases enteras. Y al revés, carga tu propio .srt o .vtt sobre el vídeo con el tamaño, la tipografía y los colores que necesites, y lo sincroniza con dos teclas. Incluye cómo traducir los subtítulos con una IA y volver a ponerlos sobre el vídeo. Guía completa.]]></description>
+        </item>
         <item>
             <title><![CDATA[Un LLM de 300 MB en mi blog: lo medí, falló el 59 % de las veces y publiqué otra cosa]]></title>
             <link>https://abdell.dev/articulos/un-llm-de-300-mb-en-mi-blog</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</guid>
             <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Manual de QR Studio, un generador de QR que funciona entero en el navegador y sin conexión, y que se instala como aplicación en el móvil o el ordenador. Cómo crear y diseñar un QR, cómo leer el veredicto de escaneo, cómo fundirlo con una foto, imprimirlo a tamaño exacto, generar hojas de etiquetas desde un CSV y leer QR sospechosos sin abrirlos.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QR Studio por dentro: un generador de QR que se lee a sí mismo]]></title>
-            <link>https://abdell.dev/articulos/qr-studio-por-dentro</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-por-dentro</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Las decisiones detrás de un generador de QR que funciona entero en el navegador, con las alternativas que descarté. Una arquitectura por capas con Nuxt 4, un verificador que decodifica cada QR con jsQR y lo degrada para ver si aguanta, la calibración que lo hizo fiable y un fallo en jsQR, QR artísticos con la técnica halftone, un lector anti-phishing sin red, PDF y ZIP escritos a mano, un sistema de diseño con el contraste comprobado en los tests y una PWA instalable también en el iPhone.]]></description>
         </item>
     </channel>
 </rss>
