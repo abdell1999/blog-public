@@ -4,12 +4,19 @@
         <title>abdell.dev</title>
         <link>https://abdell.dev</link>
         <description>Artículos sobre desarrollo web</description>
-        <lastBuildDate>Wed, 25 Nov 2026 13:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 19:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <copyright>2026 abdell</copyright>
         <atom:link href="https://abdell.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mi CV es un juego de Game Boy Advance]]></title>
+            <link>https://abdell.dev/articulos/abdell-gba-mi-cv-en-una-game-boy-advance</link>
+            <guid isPermaLink="false">https://abdell.dev/articulos/abdell-gba-mi-cv-en-una-game-boy-advance</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hice un RPG corto para Game Boy Advance que hace de CV: cinco mapas, personajes, retos de programación y partida guardada. Está escrito en C, pesa 230 KB y se juega aquí mismo en el navegador.]]></description>
+        </item>
         <item>
             <title><![CDATA[SubFetch for YouTube: descarga los subtítulos de un vídeo en frases completas y pon los tuyos encima]]></title>
             <link>https://abdell.dev/articulos/subfetch-descarga-y-carga-subtitulos-de-youtube</link>
@@ -142,13 +149,6 @@
             <guid isPermaLink="false">https://abdell.dev/articulos/abr-image-tools-por-dentro</guid>
             <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Cómo está hecho un editor de imágenes que funciona entero en el navegador. Clean Architecture con el patrón Command, un historial de deshacer que se corrompía de cuatro formas distintas, gestos táctiles que se cancelan sin dejar rastro, Tesseract y MediaPipe para encontrar DNI y caras, un procesamiento por lotes con censura editable, seis modelos de IA en local y la suite E2E que estuvo meses sin ejecutarse por tres fallos apilados.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QR Studio: códigos QR con diseño que comprueban que escanean]]></title>
-            <link>https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</link>
-            <guid isPermaLink="false">https://abdell.dev/articulos/qr-studio-codigos-qr-que-escanean</guid>
-            <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Manual de QR Studio, un generador de QR que funciona entero en el navegador y sin conexión, y que se instala como aplicación en el móvil o el ordenador. Cómo crear y diseñar un QR, cómo leer el veredicto de escaneo, cómo fundirlo con una foto, imprimirlo a tamaño exacto, generar hojas de etiquetas desde un CSV y leer QR sospechosos sin abrirlos.]]></description>
         </item>
     </channel>
 </rss>
